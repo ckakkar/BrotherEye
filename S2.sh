@@ -4,7 +4,7 @@ echo "The pressence"
 
 sleep 2
 
-echo "Lucife"
+echo "Lucifer"
 
 sleep 2
 
@@ -34,3 +34,6 @@ sleep 2
 
 echo "AKA Failsafe ONLINE"
 
+sleep 4
+
+echo "If you don't see the danger in, what you have become no one can help you"
